@@ -1,0 +1,34 @@
+
+#header
+{
+font-size: 43px;
+width: 100%;
+margin: 0px;
+width: 100%;
+background:linear-gradient(to right,blue, lightblue, pink);
+height: 80px;
+padding-top: 2px;
+font-family: 'Londrina Solid', cursive;
+border-radius: 10px;
+    border-color: black;
+    border-width: 3px;
+    border-style: dotted;
+
+}
+
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+#status
+{
+font-size: 18px;
+}
+canvas{
+    border-radius: 10px;
+    border-color: black;
+    border-width: 3px;
+    border-style: dotted;
+    background:linear-gradient(to right, lightblue, pink);
+height: 80px;
+}
